@@ -1,5 +1,5 @@
 # PracticeRepo
 My very first repository for Java.
 
-##Authors: 
+## Authors: 
 Jim, Sally, Paul
